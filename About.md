@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrinidhi Joshi</h1>
-<p>Full stack Engineer with 1.5 years of work experience. I have worked on scalable and distributed systems and API services with various tech stacks. I have experience in building products from scratch and shipping them to production. Handled the setting up of cloud infrastructure for multiple services. I have good experience in designing systems and with good knowledge of data structures and algorithms. Currently Working with Narvar and an ex-EPAMer.</p>
+<p>Full stack Engineer with 1.5 years of work experience. I have worked on scalable, distributed systems and API services with various tech stacks. I have experience in building products from scratch and shipping them to production. Handled the setting up of cloud infrastructure for multiple services. I have good experience designing systems and a good knowledge of data structures and algorithms. Currently Working with Narvar and an ex-EPAMer.</p>
 <h4>[Javascript, Java, Express Js, React, CI/CD, AWS]</h4>
 
 <hr>
