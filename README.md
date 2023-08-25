@@ -4,8 +4,6 @@
 
 <hr>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shiiijo" alt="shiiijo" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/shrinidhijoshi9" target="blank"><img src="https://img.shields.io/twitter/follow/shrinidhijoshi9?logo=twitter&style=for-the-badge" alt="shrinidhijoshi9" /></a> </p>
 
 - 🌱 I’m currently in **exploring more software engineering.**
